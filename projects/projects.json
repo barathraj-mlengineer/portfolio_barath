@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Smart Attendence System",
+    "desc": "Fully AI based Attendence System using OpenCV. Built using OpenCV,Python,Face_recognition,mediapipe,streamlit.",
+    "image": "Smart Attendence",
+    "category": "Smart Attendence System",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Smart Attendence with student Attention deduction System",
+    "desc": "Smart Attendence with student Attention monitoring system. Built using Python,OpenCV,mysql,streamlit,Face_recognition.",
+    "image": "Attention",
+    "category": "smart Attendence and Attention System",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Smart Teacher",
+    "desc": "Smart Teacher to produce video lectures and presentation built using python ,streamlit,ollam(mistral),moviepy,gTTs.",
+    "image": "teacher",
+    "category": "Smart Teacher",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "Blockchain based Chat Application",
+    "desc": "blockchain based chat app built using Flutter,Dart,FastAPI,Solidity.",
+    "image": "blockchain",
+    "category": "Blockchain based Chat Application",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
